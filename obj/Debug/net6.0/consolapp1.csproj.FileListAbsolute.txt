@@ -1,0 +1,15 @@
+D:\consolapp1\bin\Debug\net6.0\consolapp1.exe
+D:\consolapp1\bin\Debug\net6.0\consolapp1.deps.json
+D:\consolapp1\bin\Debug\net6.0\consolapp1.runtimeconfig.json
+D:\consolapp1\bin\Debug\net6.0\consolapp1.dll
+D:\consolapp1\bin\Debug\net6.0\consolapp1.pdb
+D:\consolapp1\obj\Debug\net6.0\consolapp1.csproj.AssemblyReference.cache
+D:\consolapp1\obj\Debug\net6.0\consolapp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\consolapp1\obj\Debug\net6.0\consolapp1.AssemblyInfoInputs.cache
+D:\consolapp1\obj\Debug\net6.0\consolapp1.AssemblyInfo.cs
+D:\consolapp1\obj\Debug\net6.0\consolapp1.csproj.CoreCompileInputs.cache
+D:\consolapp1\obj\Debug\net6.0\consolapp1.dll
+D:\consolapp1\obj\Debug\net6.0\refint\consolapp1.dll
+D:\consolapp1\obj\Debug\net6.0\consolapp1.pdb
+D:\consolapp1\obj\Debug\net6.0\consolapp1.genruntimeconfig.cache
+D:\consolapp1\obj\Debug\net6.0\ref\consolapp1.dll
